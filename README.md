@@ -18,20 +18,16 @@
 - [Composing Programs](https://composingprograms.com)
 
 ## Goal & Topics
-파이썬 프로그램의 
+파이썬의 기본적인 특징과 문법을 C언어와 비교하여 명확히 이해하며, 더 나아가 higher-order function과 같은 함수형 언어의 특징과 class 및 class inheritance와 같은 객체지향형 프로그래밍 언어의 특징을 파이썬에서 어떻게 구현할 수 있는지 알고 규모 있는 프로그램을 구조적으로 구현할 수 있도록 하는 것이 목표이다.
 자세한 주제는 다음과 같다:
 
-- **Preliminaries:** Inductive definition, Rule of inference, Functional programming
-- **Basic Concepts:** Syntax, Semantics, Naming, Binding, Scoping, Environment, Interpreters, States, Reference, Parameter passing
-- **Advanced Concepts:** Type system, Typing rules, Type checking, Soundness/completeness, Type inference, Polymorphism, Objects, Classes, Methods, Inheritance, Typed object-oriented languages
+- **Preliminaries:** Values and Variables, Objects, Expressions, Statements
+- **Advanced Techniques:** Comprehensions, Higher-order Functions, Python Built-in Data Types(Lists, Tuples, Dict, etc.)
+- **OOP:** Class, Methods, Overloading, Overriding, Inheritance, User-defined Class
 
 ## Prerequisties
-본 스터디의 내용과 과제에서는 함수형 프로그래밍을 주로 다루지만, C나 Python과 같은 언어의 기본적인 프로그래밍 스킬을 자연스럽게 할 수 있는 수준이면 좋다.
-
-프로그래밍 과제는 모두 Ocaml을 활용할 예정이다.
-대표적인 함수형 프로그래밍 언어이자 선언형 프로그래밍 언어이기 때문에 공부해 두면 인생에 큰 도움이 될 것이다.
-
-또 아주 약간의 계산이론 내용과 이산수학 내용을 알고 있으면 도움되지만, 모르는 사람을 위해 첫시간에 관련 스터디를 진행할 예정이다.
+컴퓨터프로그래밍1, 전산수학1을 수강했음을 가정하고 진행된다.
+특히 C언어의 기본적인 문법들은 이해했다고 가정하고 진행하지만, 스터디원의 이해에 필요하다면 기본적인 개념부터 설명할 예정이다.
 
 ## Assignments
 본 스터디의 과제는 GitHub Classroom으로 진행될 예정이다.
@@ -42,11 +38,11 @@
 ## Schedule (Tentative)
 |Weeks|Topics|Assignments|
 |:---:|:---:|:---:|
-|Week 1|귀납적 구조를 정의하는 법, Ocaml 기초|[Assignment 1](https://classroom.github.com/a/-ZucFpOD)|
-|Week 2|OCaml을 활용한 함수형 프로그래밍|[Assignment 2](https://classroom.github.com/a/m7O-j0zq)|
-|Week 3|인터프리터 만들기: 식(Expressions), 함수(Procedures)||
-|Week 4|인터프리터 만들기: 재귀함수(Recursion), 유효범위 규칙(Scoping Rules)|Assignment 3|
-|Week 5|인터프리터 만들기: 상태(States), 포인터(Pointers)|Assignment 4|
-|Week 6|더 나은 인터프리터 만들기: 간단한 타입 체계(Type System)||
-|Week 7|더 나은 인터프리터 만들기: 타입 추론(Type Inference)|Assignment 5|
-|Week 8|마무리: 람다 칼큘러스(Lambda Calculus), 그래서 왜 PL인가?||
+|Week 1|파이썬이란?, 변수와 값||
+|Week 2|가장 기본적인 문법들: 식(expressions), 구문(statements), 조건문(`if`-statement), 반복문(`while`-loop, `for`-loop)|Assignment 1|
+|Week 3|가장 기본적인 문법들: 함수(functions)의 선언(declare), 정의(define), 호출(call), 재귀함수(recursions)|Assignment 2|
+|Week 4|고차함수(higher-order func), 파이썬 기본 자료형들: 리스트(`list`), 문자열(`str`)|Assignment 3|
+|Week 5|파이썬 기본 자료형들: 튜플(`tuple`), 딕셔너리(`dict`), 집합(`set`), comprehension|Assignment 4|
+|Week 6|파이썬으로 OOP하기: 클래스(`class`)의 선언(declare), 정의(define), 생성(construct), object vs instance|Assignment 5|
+|Week 7|파이썬으로 OOP하기: 클래스의 함수(method), 연산자 오버로딩(overloading), 상속(inheritance)|Assignment 6|
+|Week 8|마무리: 이상한, 그래서 매력적인 파이썬||
