@@ -4,8 +4,8 @@
 
 ## Logistics
 - Tutor: [Jaeho Kim](https://oojahooo.github.io) (oojahooo@gmail.com)
-- Time: 매주 월, 목 저녁 (자세한 시간 미정, 월: 1시간 이론, 목: 1시간 실습)
-- Location: 정보관 (대면, 자세한 장소는 확정 후 공지 예정)
+- Time: 매주 수, 목 오후 3시~4시
+- Location: 정보관 예정 (대면, 자세한 장소는 확정 후 공지 예정)
 
 ## Abstract
 파이썬은 굉장히 쉽고 유저 친화적인 문법, 이에 뒤따르는 확장성과 범용성으로 명실상부 최고의 인기를 자랑하는 프로그래미 언어 중 하나이다.
