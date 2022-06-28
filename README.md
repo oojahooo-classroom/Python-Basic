@@ -4,7 +4,7 @@
 
 ## Logistics
 - Tutor: [Jaeho Kim](https://oojahooo.github.io) (oojahooo@gmail.com)
-- Time: 매주 수, 목 오후 3시~4시
+- Time: 매주 수, 목 오후 3시 ~ 4시
 - Location: 정보관 예정 (대면, 자세한 장소는 확정 후 공지 예정)
 
 ## Abstract
