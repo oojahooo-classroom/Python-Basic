@@ -39,7 +39,7 @@
 |Weeks|Topics|Assignments|
 |:---:|:---:|:---:|
 |Week 1|파이썬이란?, 변수와 값||
-|Week 2|가장 기본적인 문법들: 식(expressions), 구문(statements), 조건문(`if`-statement), 반복문(`while`-loop, `for`-loop)|Assignment 1|
+|Week 2|가장 기본적인 문법들: 식(expressions), 구문(statements), 조건문(`if`-statement), 반복문(`while`-loop, `for`-loop)|[Assignment 1](https://classroom.github.com/a/0KSFhKpQ)|
 |Week 3|가장 기본적인 문법들: 함수(functions)의 선언(declare), 정의(define), 호출(call), 재귀함수(recursions)|Assignment 2|
 |Week 4|고차함수(higher-order func), 파이썬 기본 자료형들: 리스트(`list`), 문자열(`str`)|Assignment 3|
 |Week 5|파이썬 기본 자료형들: 튜플(`tuple`), 딕셔너리(`dict`), 집합(`set`), comprehension|Assignment 4|
