@@ -36,13 +36,13 @@
 구체적인 과제 내용 및 제출 방식은 스터디 첫 시간에 공지하도록 하겠다.
 
 ## Schedule (Tentative)
-|Weeks|Topics|Assignments|
-|:---:|:---:|:---:|
-|Week 1|파이썬이란?, 변수와 값||
-|Week 2|가장 기본적인 문법들: 식(expressions), 구문(statements), 조건문(`if`-statement), 반복문(`while`-loop, `for`-loop)|[Assignment 1](https://classroom.github.com/a/0KSFhKpQ)|
-|Week 3|Abstraction is All You Need: 함수(functions)의 선언(declare), 정의(define), 호출(call), 재귀함수(recursions)|[Assignment 2](https://classroom.github.com/a/G4GTBeZ6)|
-|Week 4|고차함수(higher-order func), 파이썬 기본 자료형들: 리스트(`list`), 문자열(`str`)|[Assignment 3](https://classroom.github.com/a/i1r-WVe1)|
-|Week 5|파이썬 기본 자료형들: 튜플(`tuple`), 딕셔너리(`dict`), 집합(`set`), comprehension|[Assignment 4](https://classroom.github.com/a/sNAEm7hm)|
-|Week 6|파이썬으로 OOP하기: 클래스(`class`)의 선언(declare), 정의(define), 생성(construct), object vs instance|[Assignment 5](https://classroom.github.com/a/9NnlTSIz)|
-|Week 7|파이썬으로 OOP하기: 클래스의 함수(method), 연산자 오버로딩(overloading), 상속(inheritance)|[Assignment 6](https://classroom.github.com/a/i3CBszZI)|
-|Week 8|마무리: 이상한, 그래서 매력적인 파이썬||
+|Weeks|Topics|Lecture Videos|Assignments|
+|:---:|:---:|:---:|:---:|
+|Week 1|파이썬이란?, 변수와 값|[1-1](https://youtu.be/UqvR2cv-9_g), [1-2(Git&GitHub Study)](https://youtu.be/8aDuMMfIlho)||
+|Week 2|가장 기본적인 문법들: 식(expressions), 구문(statements), 조건문(`if`-statement), 반복문(`while`-loop, `for`-loop)|[2-1](https://youtu.be/0qDt1wc265g), [2-2](https://youtu.be/RMbl-ocKgUk)|[Assignment 1](https://classroom.github.com/a/0KSFhKpQ)|
+|Week 3|Abstraction is All You Need: 함수(functions)의 선언(declare), 정의(define), 호출(call), 재귀함수(recursions)|3-1, 3-2|[Assignment 2](https://classroom.github.com/a/G4GTBeZ6)|
+|Week 4|고차함수(higher-order func), 파이썬 기본 자료형들: 리스트(`list`), 문자열(`str`)|4-1, 4-2|[Assignment 3](https://classroom.github.com/a/i1r-WVe1)|
+|Week 5|파이썬 기본 자료형들: 튜플(`tuple`), 딕셔너리(`dict`), 집합(`set`), comprehension|5-1, 5-2|[Assignment 4](https://classroom.github.com/a/sNAEm7hm)|
+|Week 6|파이썬으로 OOP하기: 클래스(`class`)의 선언(declare), 정의(define), 생성(construct), object vs instance|6-1, 6-2|[Assignment 5](https://classroom.github.com/a/9NnlTSIz)|
+|Week 7|파이썬으로 OOP하기: 클래스의 함수(method), 연산자 오버로딩(overloading), 상속(inheritance)|7-1, 7-2|[Assignment 6](https://classroom.github.com/a/i3CBszZI)|
+|Week 8|마무리: 이상한, 그래서 매력적인 파이썬|8-1, 8-2||
