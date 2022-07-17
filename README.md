@@ -39,7 +39,7 @@
 |Weeks|Topics|Lecture Videos|Assignments|
 |:---:|:---:|:---:|:---:|
 |Week 1|파이썬이란?, 변수와 값|[1-1](https://youtu.be/UqvR2cv-9_g), [1-2(Git&GitHub Study)](https://youtu.be/8aDuMMfIlho)||
-|Week 2|가장 기본적인 문법들: 식(expressions), 구문(statements), 조건문(`if`-statement), 반복문(`while`-loop, `for`-loop)|[2-1](https://youtu.be/0qDt1wc265g), [2-2](https://youtu.be/RMbl-ocKgUk)|[Assignment 1](https://classroom.github.com/a/0KSFhKpQ)|
+|Week 2|가장 기본적인 문법들: 식(expressions), 구문(statements), 조건문(`if`-statement), 반복문(`while`-loop, `for`-loop)|[2-1](https://youtu.be/4elgtkFxuDs), [2-2](https://youtu.be/RMbl-ocKgUk)|[Assignment 1](https://classroom.github.com/a/0KSFhKpQ)|
 |Week 3|Abstraction is All You Need: 함수(functions)의 선언(declare), 정의(define), 호출(call), 재귀함수(recursions)|3-1, 3-2|[Assignment 2](https://classroom.github.com/a/G4GTBeZ6)|
 |Week 4|고차함수(higher-order func), 파이썬 기본 자료형들: 리스트(`list`), 문자열(`str`)|4-1, 4-2|[Assignment 3](https://classroom.github.com/a/i1r-WVe1)|
 |Week 5|파이썬 기본 자료형들: 튜플(`tuple`), 딕셔너리(`dict`), 집합(`set`), comprehension|5-1, 5-2|[Assignment 4](https://classroom.github.com/a/sNAEm7hm)|
